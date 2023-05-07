@@ -1,0 +1,7 @@
+{
+    "python.linting.flake8Enabled": true,
+    "python.linting.flake8Args": [
+        "E703,E501,E402",
+        "--max-line-length=88"
+    ]
+}
